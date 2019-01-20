@@ -5,6 +5,7 @@ This repository provides all the code to visualize, process, and classify sensor
 
 #### Exercises
 ![Barbell exercise examples](PythonCode/images/barbell_exercises.png)
+![Barbell exercise graphs](PythonCode/images/graphs.png)
 
 #### Goals
 * Classify barbell exercises
