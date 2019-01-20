@@ -6,7 +6,7 @@ This repository provides all the code to visualize, process, and classify sensor
 #### Exercises
 ![Barbell exercise examples](PythonCode/images/barbell_exercises.png)
 
-#### The goal of this project
+#### Goals
 * Classify barbell exercises
 * Count repetitions
 * Detect improper form 
