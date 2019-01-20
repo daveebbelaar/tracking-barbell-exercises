@@ -12,7 +12,8 @@ This repository provides all the code to visualize, process, and classify sensor
 * Detect improper form 
 
 #### References
-The original code is associated with the book titled 
-> "Machine Learning for the Quantified Self"
+The original code is associated with the book titled "Machine Learning for the Quantified Self"
 authored by Mark Hoogendoorn and Burkhardt Funk and published by Springer in 2017. The website of the book can be found on ml4qs.org
+
+> Hoogendoorn, M. and Funk, B., Machine Learning for the Quantified Self - On the Art of Learning from Sensory Data, Springer, 2017.
 
