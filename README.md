@@ -17,7 +17,7 @@ Create and activate an anaconda environment and install all package versions usi
 
 #### References
 The original code is associated with the book titled "Machine Learning for the Quantified Self"
-authored by Mark Hoogendoorn and Burkhardt Funk and published by Springer in 2017. The website of the book can be found on [ml4qs.org](ml4qs.org)
+authored by Mark Hoogendoorn and Burkhardt Funk and published by Springer in 2017. The website of the book can be found on [ml4qs.org](ml4qs.org).
 
 
 
